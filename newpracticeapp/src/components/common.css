@@ -1,0 +1,10 @@
+a{
+    background-color:rgb(66, 182, 236);
+    padding: 10PX;
+    border-radius: 10PX;
+    text-decoration: none;
+    color: black;
+}
+.navbar{
+    margin: 15px;
+}

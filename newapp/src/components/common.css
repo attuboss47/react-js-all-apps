@@ -1,0 +1,22 @@
+.main{
+    padding: 5px;
+    background-color: red;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+h1{
+color: rgb(53, 62, 62);
+font-size: 50px;
+}
+button{
+    padding: 10px;
+    /* font-size: 10px; */
+}
+.main2{
+    padding: 5px;
+    background-color: greenyellow;
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
