@@ -1,0 +1,15 @@
+a{
+    background-color: orangered;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    /* transition: 0.9s; */
+}
+/* a:hover{
+    padding: 26px 42px;
+    background-color: rgb(0, 208, 255); */
+
+/* } */
+.subx{
+    background-color: cadetblue;
+}

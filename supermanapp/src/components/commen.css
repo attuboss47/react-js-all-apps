@@ -1,0 +1,32 @@
+.back{
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    padding: 10px;
+    
+}
+a{
+    background-color: cadetblue;
+    padding: 5px;
+    border-radius: 2px;
+    color: black ;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(118, 241, 245);
+    color: red;
+}
+.input:hover{
+    background-color: aqua;
+}
+.input{
+    background-color: white;
+    border-radius: 5px;
+}
+.main{
+    background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 50%, #00dbde 100%);
+
+}
+.card:hover{
+    background-color: rgb(244, 79, 106);
+}
