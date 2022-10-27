@@ -1,0 +1,51 @@
+.main{
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid rgb(248, 243, 243);
+    background-color: aqua;
+}
+.sub{ 
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid blue;
+    background-color: rgb(249, 247, 247);
+}
+.bgtitle{
+    position: relative;
+    right: 100px;
+    bottom: 80px;
+    font-weight: bold;
+    color: blue;
+    margin-left: -100px;
+}
+.bginput{
+    width: 70%;
+}
+.bgremove{
+    margin-left: px;
+    position: relative;
+    bottom: 85px;
+    right: -5px;
+    background-color: red;
+}
+h1{
+    color:rgb(7, 21, 7);
+    font-size: 80px;
+}
+input{
+    font-size:27px ;
+    color: brown;
+    font-weight: bold;
+    width: 100%;
+}
+button{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:navy;
+    color:white ;
+    border: 2px solid white;
+
+    
+
+}
