@@ -1,0 +1,31 @@
+.background{
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 17%, #FFCC70 39%, #302d96 60%, #bf3131 80%, #308327 100%);
+
+}
+
+.nav{
+    background-color:darkslateblue;
+    padding: 15px 0px 15px 0px;
+    transition-duration: 1s;
+  }
+  .nav:hover{
+    background-color:rgb(78, 203, 241);
+    
+  }
+  a{
+    color: aliceblue;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 7px 15px 7px 15px;
+  
+    
+  }
+  a:hover{
+    color: rgb(20, 20, 20);
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 9px 15px 9px 15px;
+    background-color: lightcoral;
+  
+  }
