@@ -1,0 +1,21 @@
+.container{
+    margin: 20px; background-color: rgb(121, 121, 179);
+    border: 5px solid navy; padding:5px ;
+}
+.child1{
+    margin-left: 20px;
+    background-color: yellow;
+    border:2px solid red;
+    border-radius: 30px;
+    padding: 5px;
+    margin-top: 5px;
+}
+h1{
+    text-align: center;
+}
+ul li{
+    background-color: red;
+    margin: 10px;
+    font-weight: bolder;
+    color: aqua;
+}
