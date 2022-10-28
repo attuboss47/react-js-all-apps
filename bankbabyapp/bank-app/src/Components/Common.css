@@ -1,0 +1,17 @@
+.main{
+    margin: 5px;
+    padding: 10px;
+    background-color: yellow;
+}
+a{
+    margin: 3px;
+    padding: 10px;
+    border: 2px solid black;
+    border-top-right-radius: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: red;
+}
+.nav{
+    margin-bottom: 20px;
+}
